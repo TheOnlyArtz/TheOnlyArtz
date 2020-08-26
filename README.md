@@ -1,4 +1,2 @@
 
-<div align="center"> 
-  <img src="https://memegenerator.net/img/instances/67641321/hubspotty-we-likes-we-likes-to-hubspotty.jpg"/>
-</div>
+[![Spotify](https://novatorem-blneu4ism.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
