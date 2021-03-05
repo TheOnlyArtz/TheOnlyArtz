@@ -1,7 +1,8 @@
 #### Crystal
 #### Dart
+#### Java
 #### Node.js
 #### Python
-#### <b>Rust</b>
+#### <u>Rust</u>
 #### Ruby
 #### TypeScript
