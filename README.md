@@ -28,3 +28,18 @@
 
 #### Ruby ♦
 • Nothing open sourced, most of my Ruby knowledge derives from my Crystal knowledge.
+
+### Netsle ( Rust / React / Redux / Node.js )
+Netsle is an open sourced project aimed to provide monitoring abilities of a network (enterprise/home based).
+at it's core Netsle uses a layer in the Linux system called "eBPF"
+it's essentially the first place in the system where packets go to, right after the network adapter.
+
+then we can drop/pass/halt packets and monitor their behaviours and the different contents.
+Netsle has a Dashboard which aims to provide very basic information about the network such as:
+- Network usage (downstream)
+- Packets amount respective to a selected time
+- The most used ports in the network
+- The most communicated-with hosts in the network
+
+Netsle also has the ability to let the net-admin to block hosts from the network using a rather intuative UI
+which lets you submit an IP to blacklist and update the router with the respective arguments.
