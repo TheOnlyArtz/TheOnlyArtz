@@ -1,7 +1,7 @@
-### Crystal
-### Dart
-### Node.js
-### Python
-### Rust
-### Ruby
-### TypeScript
+#### Crystal
+#### Dart
+#### Node.js
+#### Python
+#### <b>Rust</b>
+#### Ruby
+#### TypeScript
