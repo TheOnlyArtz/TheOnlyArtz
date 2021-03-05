@@ -1,3 +1,4 @@
+Languages I'm using / used to use on day to day basis.
 (SORTED BY A-Z except from Rust ♥)
 
 #### <u>Rust</u> 💪
@@ -12,7 +13,7 @@
 
 • https://github.com/TheOnlyArtz/racer (A Type racer game implemented)
 #### Dart 🎯
-• Nothing really open sourced (but mainly Flutter developent)
+• • N/A (mainly Flutter developent)
 #### Java 🍵
 • https://github.com/TheOnlyArtz/OneInTheChamber (A Minecraft plugin which implements One In The Chamber)
 #### Javascript/TypeScript (Node.js) 😎
@@ -24,10 +25,10 @@
 
 * More experience derives from day to day usages and working as a R&D Developer at a respectable comapny.
 #### Python 🐍
-• Nothing open sourced, just a basic language to know.
+• N/A
 
 #### Ruby ♦
-• Nothing open sourced, most of my Ruby knowledge derives from my Crystal knowledge.
+• N/A
 
 ### Netsle ( Rust / React / Redux / Node.js )
 Netsle is an open sourced project aimed to provide monitoring abilities of a network (enterprise/home based).
