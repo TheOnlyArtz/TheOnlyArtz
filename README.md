@@ -31,7 +31,7 @@ Languages I'm using / used to use on day to day basis.
 • N/A
 
 ### Netsle ( Rust / React / Redux / Node.js )
-Netsle is an open sourced project aimed to provide monitoring abilities of a network (enterprise/home based).
+[Netsle](https://github.com/netsle-monitoring) is an open sourced project aimed to provide monitoring abilities of a network (enterprise/home based).
 at it's core Netsle uses a layer in the Linux system called "eBPF"
 it's essentially the first place in the system where packets go to, right after the network adapter.
 
