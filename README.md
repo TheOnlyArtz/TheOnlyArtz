@@ -6,6 +6,8 @@ Languages I'm using / used to use on day to day basis.
 
 • https://github.com/TheOnlyArtz/imperialshag A cross-platform Command and Control server and agent (fully encrypted with SSL-like handshake)
 
+• https://github.com/TheOnlyArtz/rust-tcp-holepunch An implementation of TCP hole punching (NAT Traversal) 
+
 #### Crystal 🔮
 • https://github.com/TheOnlyArtz/githubcr (GitHub API Wrapper)
 
