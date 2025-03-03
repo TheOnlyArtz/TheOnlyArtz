@@ -2,6 +2,8 @@ Languages I'm using / used to use on day to day basis.
 (SORTED BY A-Z except from Rust ♥)
 
 #### <u>Rust</u> 💪
+• https://github.com/TheOnlyArtz/rustorrent A client implementation of the decentralized protocol we all love.
+
 • https://github.com/TheOnlyArtz/rustirc A fully asynchronus IRC client and protocol implementation ([RFC1459 and RFC2812 summary](https://modern.ircdocs.horse))
 
 • https://github.com/TheOnlyArtz/imperialshag A cross-platform Command and Control server and agent (fully encrypted with SSL-like handshake)
